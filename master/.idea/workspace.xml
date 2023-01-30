@@ -5,101 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="945a37d6-7a38-4e7d-aa06-1bc07b5136c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/content/python-basics.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/templates/body.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/templates/head_simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/templates/head_unittest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/templates/head_vartest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons-python/tests/basic-content-tests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.idea/acos-jsparsons.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/acos-jsparsons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/hello-parson-noindent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/java-example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/pseudocode-example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/toggle-example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/toggle-variable-grader-example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/turtle-test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/examples/unittestexample.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/jquery.sound.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/jquery.ui.touch-punch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/lis.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/prettify.COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/skulpt-stdlib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/skulpt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/lib/underscore-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/parsons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/parsons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/tests/parsons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/tests/runner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/ui-extension/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/ui-extension/parsons-site-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/acos-jsparsons/static/js-parsons/ui-extension/parsons-site-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.idea/pitt-acos-heroku-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/TESTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/bin/www" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/doc/acos_concept.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/doc/development.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/doc/fetch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/js/acos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/bootstrap-3.3.2-dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lib/jquery-1.11.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/lticonfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/public/stylesheets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/tests/basic-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/content_selection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/content_selection_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Current Resource/pitt-acos-heroku-master/wdio.conf.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/acos-jsparsons-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acos-jsparsons-python/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../acos-jsparsons-python/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acos-jsparsons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../acos-jsparsons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,15 +25,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="2L1iEIbpU7oJjnqacUuHRuVjbTn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "16.16.0",
     "javascript.nodejs.core.library.typings.version": "16.18.11",
@@ -143,10 +66,14 @@
       <updated>1675044876753</updated>
       <workItem from="1675044877811" duration="1399000" />
       <workItem from="1675046379749" duration="25000" />
+      <workItem from="1675046405616" duration="2793000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

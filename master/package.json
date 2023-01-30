@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "acos-html": "^0.2.0",
-    "acos-jsparsons": "github:acos-server/acos-jsparsons",
-    "acos-jsparsons-python": "github:acos-server/acos-jsparsons-python",
+    "acos-jsparsons": "github:Res1StAnce7/ParsonsProblem/tree/main/acos-jsparsons",
+    "acos-jsparsons-python": "github:Res1StAnce7/ParsonsProblem/tree/main/acos-jsparsons-python",
     "archiver": "^2.0.0",
     "atob": ">=2.1.0",
     "body-parser": "^1.17.2",
