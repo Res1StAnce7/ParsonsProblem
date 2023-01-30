@@ -27,25 +27,29 @@ var CONFIG = {
 
     // Insert all the installed package names here to use them
     // These are ignored if autoDiscovery is true!
+    // installedPackages: [
+    //     // Installed protocols
+    //     'acos-html',
+	// 	'acos-lti',
+	// 	'acos-pitt',
+	// 	// Installed content types
+    //     'acos-annotated',
+	// 	'acos-jsparsons',
+	// 	'acos-jsvee',
+    //     // Installed content packages
+    //     'acos-annotated-demo',
+	// 	'acos-jsparsons-python',
+	// 	'acos-jsvee-java',
+    //     // Tools
+    //     'acos-logging-keygenerator',
+    //     // Libraries
+    //
+    //     // Other packages
+    //
+    // ]
     installedPackages: [
-        // Installed protocols
-        'acos-html',
-		'acos-lti',
-		'acos-pitt',
-		// Installed content types
-        'acos-annotated',
-		'acos-jsparsons',
-		'acos-jsvee',
-        // Installed content packages
-        'acos-annotated-demo',
-		'acos-jsparsons-python',
-		'acos-jsvee-java',
-        // Tools
-        'acos-logging-keygenerator',
-        // Libraries
-        
-        // Other packages
-        
+        'acos-jsparsons',
+        'acos-jsparsons-python',
     ]
 
 };

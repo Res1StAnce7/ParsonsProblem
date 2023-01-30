@@ -8,17 +8,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "acos-combo": "github:acos-server/acos-combo",
-    "acos-combo-python": "github:acos-server/acos-combo-python",
     "acos-html": "^0.2.0",
     "acos-jsparsons": "github:acos-server/acos-jsparsons",
     "acos-jsparsons-python": "github:acos-server/acos-jsparsons-python",
-    "acos-jsvee": "github:acos-server/acos-jsvee",
-    "acos-jsvee-java": "github:acos-server/acos-jsvee-java",
-    "acos-jsvee-python": "github:acos-server/acos-jsvee-python",
-    "acos-logging-keygenerator": "^0.1.4",
-    "acos-lti": "github:cskamil/acos-lti",
-    "acos-pitt": "github:acos-server/acos-pitt",
     "archiver": "^2.0.0",
     "atob": ">=2.1.0",
     "body-parser": "^1.17.2",
@@ -44,8 +36,8 @@
     "xmlbuilder": "^15.1.1"
   },
   "devDependencies": {
-    "webdriverio": "~3.4.0",
-    "chai": "~3.5.0"
+    "chai": "~3.5.0",
+    "webdriverio": "~3.4.0"
   },
   "keywords": [
     "node",
