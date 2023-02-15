@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="945a37d6-7a38-4e7d-aa06-1bc07b5136c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/acos-jsparsons-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../acos-jsparsons-python/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../acos-jsparsons-python/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../acos-jsparsons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../acos-jsparsons/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons-python/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../acos-jsparsons/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,26 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "16.16.0",
-    "javascript.nodejs.core.library.typings.version": "16.18.11",
-    "last_opened_file_path": "/Users/s589z417/Desktop/ParsonsProblem/master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.16.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/s589z417/Desktop/ParsonsProblem/master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +63,15 @@
       <updated>1675044876753</updated>
       <workItem from="1675044877811" duration="1399000" />
       <workItem from="1675046379749" duration="25000" />
-      <workItem from="1675046405616" duration="2793000" />
+      <workItem from="1675046405616" duration="7757000" />
+      <workItem from="1675310022104" duration="600000" />
+      <workItem from="1675390093641" duration="3533000" />
+      <workItem from="1675828199328" duration="819000" />
+      <workItem from="1675831627854" duration="19000" />
+      <workItem from="1675880449182" duration="1279000" />
+      <workItem from="1675883446691" duration="1000" />
+      <workItem from="1675883483749" duration="21000" />
+      <workItem from="1676254385826" duration="555000" />
     </task>
     <servers />
   </component>
